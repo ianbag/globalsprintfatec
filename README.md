@@ -6,3 +6,4 @@ Apresentação Github
 - Philipp Garcia Nascimento
 - Pedro Cassone
 - Felipe DO E. Santo
+- Andrew G. C. Serati
